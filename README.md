@@ -5,11 +5,11 @@ Reconstruir modulos node
 ```
 npm install
 ```
-Construir build
-```
-npm run build
-```
-Construir build para producción
+Build Folder to develop
 ```
 npm run build-dev
+```
+Build Folder to production
+```
+npm run build
 ```
