@@ -1,6 +1,6 @@
 # Webpack Starter
 Starter Template to Webpack Aplications
-### Notas
+### Notes
 Build Node Modules
 ```
 npm install
