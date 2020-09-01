@@ -1,7 +1,7 @@
 # Webpack Starter
-Plantilla inicial para crear aplicaciones usando Webpack.
+Starter Template to Webpack Aplications
 ### Notas
-Reconstruir modulos node
+Build Node Modules
 ```
 npm install
 ```
